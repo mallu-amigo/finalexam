@@ -1,0 +1,10 @@
+streamlit>=1.22
+numpy>=2.2.6
+pandas>=1.5
+scikit-learn>=1.2
+gensim>=4.3.2
+joblib>=1.2
+tornado==6.1
+
+# Optional: only include if you need the LSTM in production
+# tensorflow>=2.12.0
